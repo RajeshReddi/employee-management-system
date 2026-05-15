@@ -117,7 +117,7 @@ server.port=8080
 ## Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/RajeshReddi/employee-management-system.git
 ```
 
 ---
